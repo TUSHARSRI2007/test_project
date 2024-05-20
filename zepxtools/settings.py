@@ -76,7 +76,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'zepxtools.wsgi.application'
+WSGI_APPLICATION = 'zepxtools.wsgi.app'
 
 
 # Database
