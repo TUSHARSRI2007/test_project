@@ -26,7 +26,7 @@ SECRET_KEY = 'rhy9845y8495yc0n984y5 7 u4y5bygrfenwgd3ug7tg8yg@hiuh#$%^&*ihuigpoi
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['.vercel.app']
+ALLOWED_HOSTS = ['.onrender.com']
 
 
 # Application definition
